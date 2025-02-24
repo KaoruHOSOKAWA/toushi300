@@ -1,20 +1,42 @@
-body {
-    width: 35em;
-    margin: 0 auto;
+/* PC用（ナビゲーションを横並び） */
+@media screen and (min-width: 768px) {
+    body {
+        width: 35em;
+        margin: 0 auto;
+        
+        font-family: sans-serif;
+        font-size: 16pt;
+    }
     
-    font-family: sans-serif;
-    font-size: 16pt;
+    img {
+        max-height: 12em;
+        width: auto;
+        margin: auto;
+        display: block;
+    }
 }
+
+/* スマホ用（ナビゲーションを縦並び） */
+@media screen and (max-width: 767px) {
+    body {
+        /* width: 35em; */
+        /* margin: 0 auto; */
+        
+        font-family: sans-serif;
+        font-size: 16pt;
+    }
+
+    img {
+        max-height: 12em;
+        width: auto;
+        margin: auto;
+        display: block;
+    }
+}
+
 
 h1 {
     text-align: center;
-}
-
-img {
-    max-height: 12em;
-    width: auto;
-    margin: auto;
-    display: block;
 }
 
 p,li {
