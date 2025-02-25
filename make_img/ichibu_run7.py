@@ -98,6 +98,7 @@ for block in root.findall('block'):
 
     oyaji = block.find('oyaji').text
     output += add_text(x, y, ZEN, oyaji, OYA)
+    # print(oyaji)
 
     # 返り点
     if block.find('kaeri') is not None:
