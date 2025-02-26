@@ -1,157 +1,340 @@
 <?xml version='1.0' encoding='utf-8'?>
 <kanbun>
   <block>
-    <oyaji>夜</oyaji>
-    <okuri>ナ</okuri>
+    <oyaji>三</oyaji>
   </block>
   <block>
-    <oyaji>夜</oyaji>
-    <okuri>ナ</okuri>
+    <oyaji>界</oyaji>
+    <okuri>ニ</okuri>
   </block>
   <block>
-    <oyaji>抱</oyaji>
-    <okuri>キテ</okuri>
+    <oyaji>無</oyaji>
+    <okuri>シ</okuri>
     <kaeri>レ</kaeri>
   </block>
   <block>
-    <oyaji>仏</oyaji>
-    <okuri>ヲ</okuri>
+    <oyaji>安</oyaji>
+    <okuri>キコト</okuri>
   </block>
   <block>
-    <oyaji>眠</oyaji>
-    <okuri>リ</okuri>
+    <oyaji>　</oyaji>
   </block>
   <block>
-    <oyaji>朝</oyaji>
-    <okuri>ナ</okuri>
+    <oyaji>猶</oyaji>
+    <okuri>オ</okuri>
   </block>
   <block>
-    <oyaji>朝</oyaji>
-    <okuri>ナ</okuri>
-  </block>
-  <block>
-    <oyaji>還</oyaji>
-  </block>
-  <block>
-    <oyaji>共</oyaji>
-    <okuri>ニ</okuri>
-  </block>
-  <block>
-    <oyaji>起</oyaji>
-    <okuri>ク</okuri>
-  </block>
-  <block>
-    <oyaji>起</oyaji>
-  </block>
-  <block>
-    <oyaji>坐</oyaji>
-  </block>
-  <block>
-    <oyaji>鎮</oyaji>
-    <okuri>ニ</okuri>
-  </block>
-  <block>
-    <oyaji>相</oyaji>
-  </block>
-  <block>
-    <oyaji>随</oyaji>
-    <okuri>イ</okuri>
-  </block>
-  <block>
-    <oyaji>語</oyaji>
-  </block>
-  <block>
-    <oyaji>黙</oyaji>
-  </block>
-  <block>
-    <oyaji>同</oyaji>
-    <okuri>ジクス</okuri>
+    <oyaji>如</oyaji>
+    <okuri>シ</okuri>
     <kaeri>二</kaeri>
   </block>
   <block>
-    <oyaji>居</oyaji>
+    <oyaji>火</oyaji>
   </block>
   <block>
-    <oyaji>止</oyaji>
-    <okuri>ヲ</okuri>
+    <oyaji>宅</oyaji>
+    <okuri>ノ</okuri>
     <kaeri>一</kaeri>
   </block>
   <block>
-    <oyaji>繊</oyaji>
+    <oyaji>衆</oyaji>
   </block>
   <block>
-    <oyaji>毫</oyaji>
-    <okuri>モ</okuri>
+    <oyaji>苦</oyaji>
+    <okuri>ハ</okuri>
   </block>
   <block>
-    <oyaji>不</oyaji>
+    <oyaji>充</oyaji>
+  </block>
+  <block>
+    <oyaji>満</oyaji>
+    <okuri>シ</okuri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>甚</oyaji>
+    <okuri>ダ</okuri>
+  </block>
+  <block>
+    <oyaji>可</oyaji>
+    <okuri>シ</okuri>
     <kaeri>二</kaeri>
   </block>
   <block>
-    <oyaji>相</oyaji>
+    <oyaji>怖</oyaji>
   </block>
   <block>
-    <oyaji>離</oyaji>
-    <okuri>レ</okuri>
+    <oyaji>畏</oyaji>
+    <okuri>ス</okuri>
+    <kaeri>一</kaeri>
+  </block>
+  <block>
+    <oyaji>常</oyaji>
+    <okuri>ニ</okuri>
+  </block>
+  <block>
+    <oyaji>有</oyaji>
+    <okuri>ツテ</okuri>
+    <kaeri>二</kaeri>
+  </block>
+  <block>
+    <oyaji>生</oyaji>
+  </block>
+  <block>
+    <oyaji>老</oyaji>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>病</oyaji>
+  </block>
+  <block>
+    <oyaji>死</oyaji>
+    <okuri>ノ</okuri>
+  </block>
+  <block>
+    <oyaji>憂</oyaji>
+  </block>
+  <block>
+    <oyaji>患</oyaji>
     <kaeri>一</kaeri>
   </block>
   <block>
     <oyaji>如</oyaji>
-    <okuri>ク</okuri>
-    <kaeri>二</kaeri>
-  </block>
-  <block>
-    <oyaji>身</oyaji>
-  </block>
-  <block>
-    <oyaji>影</oyaji>
-    <okuri>ノ</okuri>
-    <kaeri>一</kaeri>
-  </block>
-  <block>
-    <oyaji>相</oyaji>
-  </block>
-  <block>
-    <oyaji>似</oyaji>
-    <okuri>タリ</okuri>
-  </block>
-  <block>
-    <oyaji>欲</oyaji>
-    <okuri>セバ</okuri>
+    <okuri>キ</okuri>
     <kaeri>レ</kaeri>
   </block>
   <block>
-    <oyaji>識</oyaji>
-    <okuri>ラント</okuri>
-    <kaeri>二</kaeri>
-  </block>
-  <block>
-    <oyaji>仏</oyaji>
+    <oyaji>是</oyaji>
     <okuri>ノ</okuri>
   </block>
   <block>
-    <oyaji>去</oyaji>
+    <oyaji>等</oyaji>
+    <okuri>ノ</okuri>
   </block>
   <block>
-    <oyaji>処</oyaji>
+    <oyaji>火</oyaji>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>熾</oyaji>
+  </block>
+  <block>
+    <oyaji>然</oyaji>
+    <okuri>トシテ</okuri>
+  </block>
+  <block>
+    <oyaji>不</oyaji>
+    <kaeri>レ</kaeri>
+  </block>
+  <block>
+    <oyaji>息</oyaji>
+    <okuri>マ</okuri>
+  </block>
+  <block>
+    <oyaji>如</oyaji>
+  </block>
+  <block>
+    <oyaji>来</oyaji>
+    <okuri>ハ</okuri>
+  </block>
+  <block>
+    <oyaji>已</oyaji>
+    <okuri>ニ</okuri>
+  </block>
+  <block>
+    <oyaji>離</oyaji>
+    <okuri>レ</okuri>
+    <kaeri>二</kaeri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>三</oyaji>
+  </block>
+  <block>
+    <oyaji>界</oyaji>
+  </block>
+  <block>
+    <oyaji>火</oyaji>
+  </block>
+  <block>
+    <oyaji>宅</oyaji>
     <okuri>ヲ</okuri>
     <kaeri>一</kaeri>
   </block>
   <block>
-    <oyaji>祇</oyaji>
+    <oyaji>寂</oyaji>
   </block>
   <block>
-    <oyaji>這</oyaji>
+    <oyaji>然</oyaji>
+    <okuri>トシテ</okuri>
+  </block>
+  <block>
+    <oyaji>閑</oyaji>
+  </block>
+  <block>
+    <oyaji>居</oyaji>
+    <okuri>シ</okuri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>安</oyaji>
+    <tate />
+    <kaeri>二</kaeri>
+  </block>
+  <block>
+    <oyaji>処</oyaji>
+    <okuri>セリ</okuri>
+  </block>
+  <block>
+    <oyaji>林</oyaji>
+  </block>
+  <block>
+    <oyaji>野</oyaji>
+    <okuri>ニ</okuri>
+    <kaeri>一</kaeri>
+  </block>
+  <block>
+    <oyaji>今</oyaji>
+  </block>
+  <block>
+    <oyaji>此</oyaji>
     <okuri>ノ</okuri>
   </block>
   <block>
-    <oyaji>語</oyaji>
+    <oyaji>三</oyaji>
   </block>
   <block>
-    <oyaji>声</oyaji>
+    <oyaji>界</oyaji>
+    <okuri>ハ</okuri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>皆</oyaji>
   </block>
   <block>
     <oyaji>是</oyaji>
+    <okuri>レ</okuri>
+  </block>
+  <block>
+    <oyaji>我</oyaji>
+    <okuri>ガ</okuri>
+  </block>
+  <block>
+    <oyaji>有</oyaji>
     <okuri>ナリ</okuri>
+  </block>
+  <block>
+    <oyaji>其</oyaji>
+    <okuri>ノ</okuri>
+  </block>
+  <block>
+    <oyaji>中</oyaji>
+    <okuri>ノ</okuri>
+  </block>
+  <block>
+    <oyaji>衆</oyaji>
+  </block>
+  <block>
+    <oyaji>生</oyaji>
+    <okuri>ハ</okuri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>悉</oyaji>
+    <odori />
+    <okuri>ク</okuri>
+  </block>
+  <block>
+    <oyaji>是</oyaji>
+    <okuri>レ</okuri>
+  </block>
+  <block>
+    <oyaji>吾</oyaji>
+    <okuri>ガ</okuri>
+  </block>
+  <block>
+    <oyaji>子</oyaji>
+    <okuri>ナリ</okuri>
+  </block>
+  <block>
+    <oyaji>而</oyaji>
+    <okuri>モ</okuri>
+  </block>
+  <block>
+    <oyaji>今</oyaji>
+  </block>
+  <block>
+    <oyaji>此</oyaji>
+    <okuri>ノ</okuri>
+  </block>
+  <block>
+    <oyaji>処</oyaji>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>多</oyaji>
+    <okuri>シ</okuri>
+    <kaeri>二</kaeri>
+  </block>
+  <block>
+    <oyaji>諸</oyaji>
+    <odori />
+    <okuri>ノ</okuri>
+  </block>
+  <block>
+    <oyaji>患</oyaji>
+  </block>
+  <block>
+    <oyaji>難</oyaji>
+    <kaeri>一</kaeri>
+  </block>
+  <block>
+    <oyaji>唯</oyaji>
+  </block>
+  <block>
+    <oyaji>我</oyaji>
+  </block>
+  <block>
+    <oyaji>一</oyaji>
+  </block>
+  <block>
+    <oyaji>人</oyaji>
+    <okuri>ノミ</okuri>
+  </block>
+  <block>
+    <oyaji>　</oyaji>
+  </block>
+  <block>
+    <oyaji>能</oyaji>
+    <okuri>ク</okuri>
+  </block>
+  <block>
+    <oyaji>為</oyaji>
+    <okuri>ス</okuri>
+    <kaeri>二</kaeri>
+  </block>
+  <block>
+    <oyaji>救</oyaji>
+  </block>
+  <block>
+    <oyaji>護</oyaji>
+    <okuri>ヲ</okuri>
+    <kaeri>一</kaeri>
   </block>
 </kanbun>
