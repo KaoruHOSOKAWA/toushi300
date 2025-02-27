@@ -16,7 +16,7 @@ KO = 1
 font_flag = OYA
 kaeriten_flag = False
 
-all_retsu = 7
+all_retsu = 11
 moji_pt = 24
 kana_scale = 1/2
 
