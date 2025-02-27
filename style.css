@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
 /* PC用（ナビゲーションを横並び） */
 @media screen and (min-width: 768px) {
     body {
         width: 35em;
         margin: 0 auto;
         
-        font-family: sans-serif;
+        font-family: "Noto Sans JP", sans-serif;
         font-size: 16pt;
     }
     
@@ -22,7 +24,7 @@
         /* width: 35em; */
         /* margin: 0 auto; */
         
-        font-family: sans-serif;
+        font-family: "Noto Sans JP", sans-serif;
         font-size: 14pt;
     }
 
